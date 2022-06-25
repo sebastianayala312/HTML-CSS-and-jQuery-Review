@@ -1,0 +1,12 @@
+button {
+    color: red;
+    width: 170px;
+    padding: 10px;
+    border: 2px solid red;
+}
+
+h1 {
+    color: gold;
+    background-color: black;
+    border: 2px solid gold;
+}
